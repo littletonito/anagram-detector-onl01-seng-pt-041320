@@ -8,8 +8,8 @@ class Anagram
     @anagram = anagram
   end
   
-  def match
-    @anagram
+  def match(array)
+    @anagram.each {}
   end
   
 end
