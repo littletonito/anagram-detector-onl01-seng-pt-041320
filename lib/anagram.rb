@@ -9,7 +9,7 @@ class Anagram
   end
   
   def match(array)
-    @anagram.each {}
+    @anagram.each {|array| }
   end
   
 end
